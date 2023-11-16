@@ -6,8 +6,7 @@
         "dev": "next dev",
         "build": "next build",
         "start": "next start",
-        "lint": "next lint",
-        "prepare": "pnpm lint && git push"
+        "lint": "next lint"
     },
     "dependencies": {
         "next": "13.5.4",
